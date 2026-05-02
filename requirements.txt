@@ -1,7 +1,6 @@
 fastapi
 uvicorn
 python-multipart
-
 sqlmodel
 SQLAlchemy
 psycopg2-binary
@@ -14,4 +13,5 @@ scipy==1.11.4
 soundfile
 soxr
 
-tensorflow==2.15.0
+
+tensorflow-cpu==2.20.0
